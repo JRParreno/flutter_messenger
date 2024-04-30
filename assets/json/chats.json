@@ -1,0 +1,146 @@
+{
+    "total_count": 20,
+    "next": null,
+    "results": [
+        {
+            "id": "1",
+            "full_name": "John Doe",
+            "profile_photo": "https://images4.alphacoders.com/262/262196.jpg",
+            "is_online": true,
+            "last_message": "Hello there"
+        },
+        {
+            "id": "2",
+            "full_name": "Jane Smith",
+            "profile_photo": "https://media.glamour.com/photos/5696d35bfbaa9ddf58554452/master/w_1600,c_limit/weddings-blogs-save-the-date-0515mark-zuckerberg-hoodiegate_fa.jpg",
+            "is_online": false,
+            "last_message": "How are you?"
+        },
+        {
+            "id": "3",
+            "full_name": "Mike Johnson",
+            "profile_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg/640px-Elon_Musk_Colorado_2022_%28cropped2%29.jpg",
+            "is_online": true,
+            "last_message": "See you later"
+        },
+        {
+            "id": "4",
+            "full_name": "Emily Davis",
+            "profile_photo": "https://example.com/profile4.jpg",
+            "is_online": true,
+            "last_message": "What's up?"
+        },
+        {
+            "id": "5",
+            "full_name": "David Wilson",
+            "profile_photo": "https://example.com/profile5.jpg",
+            "is_online": false,
+            "last_message": "Goodbye"
+        },
+        {
+            "id": "6",
+            "full_name": "Sarah Brown",
+            "profile_photo": "https://example.com/profile6.jpg",
+            "is_online": true,
+            "last_message": "I'll call you"
+        },
+        {
+            "id": "7",
+            "full_name": "Michael Lee",
+            "profile_photo": "https://example.com/profile7.jpg",
+            "is_online": false,
+            "last_message": "Take care"
+        },
+        {
+            "id": "8",
+            "full_name": "Olivia Taylor",
+            "profile_photo": "https://example.com/profile8.jpg",
+            "is_online": true,
+            "last_message": "Have a great day"
+        },
+        {
+            "id": "9",
+            "full_name": "James Clark",
+            "profile_photo": "https://example.com/profile9.jpg",
+            "is_online": false,
+            "last_message": "See you soon"
+        },
+        {
+            "id": "10",
+            "full_name": "Sophia Hernandez",
+            "profile_photo": "https://example.com/profile10.jpg",
+            "is_online": true,
+            "last_message": "How's it going?"
+        },
+        {
+            "id": "11",
+            "full_name": "Benjamin Moore",
+            "profile_photo": "https://example.com/profile11.jpg",
+            "is_online": true,
+            "last_message": "Nice to meet you"
+        },
+        {
+            "id": "12",
+            "full_name": "Ava Lewis",
+            "profile_photo": "https://example.com/profile12.jpg",
+            "is_online": false,
+            "last_message": "Take it easy"
+        },
+        {
+            "id": "13",
+            "full_name": "Daniel Young",
+            "profile_photo": "https://example.com/profile13.jpg",
+            "is_online": true,
+            "last_message": "Can we talk?"
+        },
+        {
+            "id": "14",
+            "full_name": "Mia Hall",
+            "profile_photo": "https://example.com/profile14.jpg",
+            "is_online": false,
+            "last_message": "See you tomorrow"
+        },
+        {
+            "id": "15",
+            "full_name": "Joseph King",
+            "profile_photo": "https://example.com/profile15.jpg",
+            "is_online": true,
+            "last_message": "I'm busy"
+        },
+        {
+            "id": "16",
+            "full_name": "Ella Lopez",
+            "profile_photo": "https://example.com/profile16.jpg",
+            "is_online": true,
+            "last_message": "Let's meet"
+        },
+        {
+            "id": "17",
+            "full_name": "Christopher Adams",
+            "profile_photo": "https://example.com/profile17.jpg",
+            "is_online": false,
+            "last_message": "Have a good one"
+        },
+        {
+            "id": "18",
+            "full_name": "Sofia Wright",
+            "profile_photo": "https://example.com/profile18.jpg",
+            "is_online": true,
+            "last_message": "I miss you"
+        },
+        {
+            "id": "19",
+            "full_name": "Andrew Green",
+            "profile_photo": "https://example.com/profile19.jpg",
+            "is_online": false,
+            "last_message": "See you later"
+        },
+        {
+            "id": "20",
+            "full_name": "Chloe Baker",
+            "profile_photo": "https://example.com/profile20.jpg",
+            "is_online": true,
+            "last_message": "Take care"
+        }
+    ]
+}

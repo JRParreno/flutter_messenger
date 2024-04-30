@@ -1,0 +1,5 @@
+<resources>
+    <color name="primary">#0084FF</color>
+    <color name="place_holder">#8E8E8E</color>
+    <color name="online_status">#31CB46</color>
+</resources>
